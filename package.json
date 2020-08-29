@@ -1,0 +1,9 @@
+{
+  "name": "next-plugin-system",
+  "version": "0.0.1",
+  "description": "Plugin system for Next.js",
+  "main": "index.js",
+  "repository": "https://github.com/vitorbal/next-plugin-system.git",
+  "author": "Vitor Balocco <vitorbal@gmail.com>",
+  "license": "MIT"
+}
